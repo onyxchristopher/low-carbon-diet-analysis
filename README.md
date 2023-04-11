@@ -1,1 +1,1 @@
-This exploratory data analysis was created as part of a university assignment, and done in Python using Jupyter Notebook. Both .ipynb and .html versions are available.
+This exploratory data analysis was created as part of a university assignment. It was done in Python using Jupyter Notebook, and predominantly uses Pandas, with some Numpy as well. Both .ipynb and .html versions are available.
